@@ -1,0 +1,63 @@
+*{
+    margin: auto;
+    padding: auto;
+    font-family: sans-serif;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+.contenedorPadre{
+    height: 800px;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid green;
+}
+
+.contenedorMenu{
+    height: 800px;
+    width: 20%;
+    border: 1px solid red;
+    float: left;
+    padding-top: 20px;
+}
+
+.contenedorHijo{
+    height: 800px;
+    width: 79%;
+    border: 1px solid blue;
+    float: right;
+}
+
+.contenedorContenido{
+    text-align: center;
+    min-height: 25%;
+    border: 1px solid yellowgreen;
+}
+
+h2,p{
+    padding: 10px;
+}
+
+.color1{
+    background-color: blue;
+}
+
+.color2{
+    background-color: yellow;
+}
+
+.color3{
+    background-color: orange;
+}
+
+.color4{
+    background-color: red;
+}
+
+.imagen{
+    width: 200px;
+    height: 200px;
+}
